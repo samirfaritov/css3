@@ -1,0 +1,119 @@
+.box {
+    width: 1px;
+    height: 1px;
+    border-left: 100px solid yellow ;
+    border-right: 100px solid red;
+    border-top: 100px solid orange;
+    border-bottom: 100px solid rgb(122, 180, 34);
+    
+
+    
+}
+.box1 {
+    width: 1px;
+    height: 1px;
+    border-left: 100px solid yellow ;
+    border-bottom-left-radius: 100px;
+    border-right: 100px solid red;
+    border-top: 100px solid orange;
+      border-bottom: 100px solid rgb(122, 180, 34)
+}
+.box2 {
+    width: 1px;
+    height: 1px;
+    border-left: 100px solid yellow ;
+    border-bottom-left-radius: 100px;
+    border-right: 100px solid red;
+    border-bottom-right-radius: 15px;
+    border-top: 100px solid orange;
+    border-top-right-radius: 100px;
+    border-bottom: 100px solid rgb(122, 180, 34)
+    
+
+}
+
+
+.box3 {
+  width: 1px;
+  height: 1px;
+  border-left: 100px solid yellow ;
+  border-bottom-left-radius: 100px;
+  border-right: 100px solid red;
+  border-bottom-right-radius: 100px;
+  border-top: 100px solid orange;
+  border-top-right-radius: 100px;
+  border-bottom: 100px solid rgb(122, 180, 34);
+}
+.box4 {
+  width: 1px;
+  height: 1px;
+  border-left: 100px solid yellow ;
+  border-right: 100px solid red;
+  border-top: 100px solid orange;
+  border-bottom: 100px solid rgb(122, 180, 34);
+  border-radius: 50%;
+}
+
+
+
+.none {
+  width: 200px;
+  height: 130px;
+  border: 1px none rgb(0, 0, 0);
+  line-height: 125px;
+}
+.dotted {
+  width: 200px;
+  height: 130px;
+  border: 5px dotted rgb(0, 0, 0);
+  line-height: 125px;
+}
+
+.dashed {
+  width: 200px;
+  height: 130px;
+  border: 8px dashed black;
+  line-height: 125px;
+}
+
+.solid {
+  width: 200px;
+  height: 130px;
+  border: 11px solid rgb(0, 0, 0);
+  line-height: 125px;
+}
+
+
+.double {
+  width: 200px;
+  height: 130px;
+  border: 10px double rgb(0, 0, 0);
+  line-height: 125px;
+}
+
+.groove {
+  width: 200px;
+  height: 130px;
+  border: 10px groove rgb(0, 0, 0);
+  line-height: 125px;
+}
+
+.ridge {
+  width: 200px;
+  height: 130px;
+  border: 10px ridge rgb(0, 0, 0);
+  line-height: 125px;
+}
+.inset {
+  width: 200px;
+  height: 130px;
+  border: 10px inset rgb(0, 0, 0);
+  line-height: 125px;
+}
+
+.outsed {
+  width: 200px;
+  height: 130px;
+  border: 10px outset rgb(0, 0, 0);
+  line-height: 125px;
+}
